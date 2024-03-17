@@ -1,0 +1,9 @@
+.container{
+    position: relative;
+    width: 50%;
+    max-width: 600px;
+    min-height: 100px;
+    background: white;
+    margin: 100px;
+    display: block;
+}
